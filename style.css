@@ -2,7 +2,6 @@
 border: solid 5px black;
 border-radius: 18px;
 background-color: yellow;
-margin: 0 800px 0 800px;
 }
 
 .body-class {
@@ -13,5 +12,5 @@ background: aqua;
 border: solid 3px blue;
 border-radius: 40px;
 margin: 25px 0 0 0;
-width: 350px;
+width: 680px;
 }
